@@ -1,6 +1,6 @@
 # Pandas Descriptive Statistics Script
 
-This project is a basic demonstration of using the Pandas library in Python to compute descriptive statistics from a CSV data sample. 
+This project is a basic demonstration of using the Pandas library in Python to compute descriptive statistics from a CSV data sample. The script loads the data, computes the statistics, and prints the results to the console.
 
 ## Prerequisites
 
