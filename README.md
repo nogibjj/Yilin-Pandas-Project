@@ -26,3 +26,8 @@ Ensure you have the following installed:
 3. To view the descriptive statistics, run:
 ```bash
 python main.py
+```
+4. To run the unit tests, run:
+```bash
+python -m unittest tests.test_main
+```
