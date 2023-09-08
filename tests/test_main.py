@@ -1,6 +1,7 @@
 import unittest
 import pandas as pd
-from main import load_data, descriptive_statistics
+from Pandas_package import main
+from Pandas_package.main import load_data, descriptive_statistics
 
 class TestMain(unittest.TestCase):
 
