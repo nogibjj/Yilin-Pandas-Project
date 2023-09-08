@@ -10,13 +10,13 @@ Ensure you have the following installed:
 
 ## Files
 
-1. **main.py**:
+1. **Pandas_package/main.py**:
    - Contains the primary script for loading data and computing descriptive statistics.
    
-2. **test_main.py**:
+2. **tests/test_main.py**:
    - Contains unit tests for the main functionality.
    
-3. **data_sample.csv**:
+3. **data/data_sample.csv**:
    - A sample CSV data file.
 
 ## Usage
