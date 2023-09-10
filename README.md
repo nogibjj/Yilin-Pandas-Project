@@ -25,7 +25,7 @@ Ensure you have the following installed:
 2. Navigate to the directory containing the files.
 3. To view the descriptive statistics, run:
 ```bash
-python main.py
+python Pandas_package/main.py
 ```
 4. To run the unit tests, run:
 ```bash
