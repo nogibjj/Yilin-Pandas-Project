@@ -39,3 +39,7 @@ Here are some visual results based on the analysis:
 ![Analysis Figure 1](Result/main.png "Figure 1: Descriptive Analysis Overview")
 
 ![Analysis Figure 2](Result/test.png "Figure 2: Data Distribution")
+
+![Analysis Figure 3](Result/boxplot.png "Figure 3: Boxplot")
+
+![Analysis Figure 4](Result/histogram.png "Figure 4: Histogram")
