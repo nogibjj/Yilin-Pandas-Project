@@ -31,3 +31,11 @@ python Pandas_package/main.py
 ```bash
 python -m unittest tests.test_main
 ```
+
+## Results
+
+Here are some visual results based on the analysis:
+
+![Analysis Figure 1](Result/main.png "Figure 1: Descriptive Analysis Overview")
+
+![Analysis Figure 2](Result/test.png "Figure 2: Data Distribution")
