@@ -40,6 +40,6 @@ Here are some visual results based on the analysis:
 
 ![Analysis Figure 2](Result/test.png "Figure 2: Data Distribution")
 
-![Analysis Figure 3](Result/boxplot.png "Figure 3: Boxplot")
+![Analysis Figure 3](Result/Boxplot.png "Figure 3: Boxplot")
 
-![Analysis Figure 4](Result/histogram.png "Figure 4: Histogram")
+![Analysis Figure 4](Result/Histogram.png "Figure 4: Histogram")
